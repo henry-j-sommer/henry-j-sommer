@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi, I'm Henry!
 
+### I'm looking to work on a software team
+
+### My specialties
+- Python
+- Linux
+- Bash
+- Networking
+## Feel free to reach out with any questions
 <!--
 **henry-j-sommer/henry-j-sommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
